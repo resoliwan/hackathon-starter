@@ -1,0 +1,6 @@
+{
+  "name": "hackathon",
+  "dependencies": {
+    "bootstrap": "~3.3.2"
+  }
+}
